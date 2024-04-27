@@ -1,0 +1,4 @@
+Moveables_CN = {
+    Full_Water_Dispenser = "饮水机",
+    Empty_Water_Dispenser = "饮水机",
+}
